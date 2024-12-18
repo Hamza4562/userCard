@@ -1,0 +1,28 @@
+.main{
+    background-color: aqua;
+    display: flex;
+    gap: 10vw;
+}
+.middleLeft{
+    background-color: rgb(181, 155, 206);
+    height: 10vh;
+    width: 5vw;
+  border-radius: 5vh 5vh ;
+    
+
+}
+.middleRight{
+    background-color: rgb(8, 151, 103);
+    
+}
+.middle{
+    display: flex;
+    text-align: center;
+    gap: 3vw;
+    
+}
+.middlebottom{
+    display: flex;
+    gap: 4vw;
+    padding-top: 1.1vw;
+}
